@@ -5,9 +5,9 @@ dobro = idade * 2
 print(f"o dobro da sua idade é {dobro} anos")
 
 if idade >= 18:
-  print("voce é maior de idade")
+  print("voce é maior de idade.")
 else:
-  print("voce é menor de idade")
+  print("voce é menor de idade.")
 
 
 #---------------------------------------------

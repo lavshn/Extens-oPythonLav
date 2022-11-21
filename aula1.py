@@ -1,6 +1,6 @@
 print("Alo mundo!")
 
-nome = "Lavínia"
+nome = "Lavínia H"
 idade = 19
 
 print("tenho "+str(idade)+" anos")
